@@ -43,7 +43,7 @@ packages:
 - '.'
 - location:
     git: https://github.com/ksaric/bronze-linker
-    commit: 8839067b055f0d0fa6868c0c99a795bc158a83c3 
+    commit: b97d229512de89120cd1c0ab5e21cda212a4b5ac 
   extra-dep: true
 # Dependency packages to be pulled from upstream that are not in the resolver
 # (e.g., acme-missiles-0.3)
